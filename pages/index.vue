@@ -10,7 +10,7 @@
           <!-- Fancy Typed Text -->
         </h5>
         <p>
-          infrequently updated musings of a confused developer / data scientist
+          because Instagram and Twitter were too basic / aspiring business analyst
         </p>
         <span class="sm-txt"><em>I wouldn't read too much into anything here...</em></span>
 
@@ -78,7 +78,7 @@ export default {
 
     new TypeIt("#type-it-text")
     .type("do you wish to continue?", {speed: 60, delay: 200})
-    .delete(15, {delay: 200})
+    .delete(30, {delay: 200})
     .type("access granted", {speed: 60})
     .break({delay: 300})
     .type("can i interest you in...", {speed: 60})
