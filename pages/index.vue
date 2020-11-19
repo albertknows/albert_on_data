@@ -10,7 +10,7 @@
           <!-- Fancy Typed Text -->
         </h5>
         <p>
-          because Instagram and Twitter were too basic / aspiring business analyst
+          chasing happiness / aspiring business analyst
         </p>
         <span class="sm-txt"><em>I wouldn't read too much into anything here...</em></span>
 
