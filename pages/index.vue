@@ -38,18 +38,18 @@ export default {
   },
   head() {
     return {
-      title: 'greg on data - a data science blog',
+      title: 'albert farrales - a data science blog',
       meta: [
       { hid: 'description',
       name: 'description',
       content: 'A personal data science blog meant to discuss the field at a high level.' },
       {
           'property':  'og:url',
-          'content':  `https://gregondata.com/`,
+          'content':  `https://alberfarrales.com/`,
       },
       {
           'property':  'og:title',
-          'content':  `greg on data - a data science blog`,
+          'content':  `albertfarrales - a data science blog`,
       },
       {
           'property':  'og:type',
@@ -77,9 +77,9 @@ export default {
     this.initParticles()
 
     new TypeIt("#type-it-text")
-    .type("welcome to the danger zone", {speed: 60, delay: 200})
+    .type("do you wish to continue?", {speed: 60, delay: 200})
     .delete(15, {delay: 200})
-    .type("my personal site", {speed: 60})
+    .type("access granted", {speed: 60})
     .break({delay: 300})
     .type("can i interest you in...", {speed: 60})
     .break({delay: 100})
