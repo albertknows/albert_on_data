@@ -10,13 +10,13 @@
             <div class="col-xs-4 center-xs middle-xs">
               <div class="box">
                 <span class="footer-link">
-                  <a href="https://github.com/gms64" aria-label="Github" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github"/>
+                  <a href="https://open.spotify.com/user/ur6gnl2xf4tmr1dar7bsfj6jp?si=yKPP5uCERauTb7860PSTMQ" aria-label="Spotify" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Github"/>
                   </a>
                 </span>
                 &nbsp;&nbsp;
                 <span class="footer-link">
-                  <a href="https://twitter.com/greg_on_data" aria-label="Twitter" target="_blank">
+                  <a href="https://twitter.com/" aria-label="Twitter" target="_blank">
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter"/>
                   </a>
                 </span>
