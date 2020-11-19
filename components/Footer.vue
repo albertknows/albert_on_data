@@ -35,7 +35,7 @@
                 &nbsp;&nbsp;
                 <span class="footer-link">
                   <a href="https://vsco.co/albertfarrales/gallery" aria-label="VSCO" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/VSCO.svg" alt="VSCO"/>
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg" alt="VSCO"/>
               </div>
             </div>
             <div class="col-xs-4 center-xs middle-xs">
