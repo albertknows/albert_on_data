@@ -24,6 +24,12 @@
                 <span class="footer-link">
                   <a href="https://www.linkedin.com/in/albertfarrales/" aria-label="LinkedIn" target="_blank">
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Twitter"/>
+                      </a>
+                </span>
+                &nbsp;&nbsp;
+                <span class="footer-link">
+                  <a href="https://www.youtube.com/watch?v=1c1dokm-wH4&ab_channel=albertknows" aria-label="YouTube" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Twitter"/>
               </div>
             </div>
             <div class="col-xs-4 center-xs middle-xs">
