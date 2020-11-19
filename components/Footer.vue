@@ -20,6 +20,10 @@
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter"/>
                   </a>
                 </span>
+                &nbsp;&nbsp;
+                <span class="footer-link">
+                  <a href="https://www.linkedin.com/in/albertfarrales/" aria-label="LinkedIn" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Twitter"/>
               </div>
             </div>
             <div class="col-xs-4 center-xs middle-xs">
