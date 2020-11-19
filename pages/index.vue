@@ -4,7 +4,7 @@
     <div class="home-container" >
       <div class="u-full-width">
         <h1 class="site-title">
-            albert<span class="txt-color">  </span>farrales
+            albert<span class="txt-color">-</span>farrales
         </h1>
         <h5 class="subtitle" id="type-it-text">
           <!-- Fancy Typed Text -->
@@ -12,7 +12,7 @@
         <p>
           chasing happiness / aspiring business analyst
         </p>
-        <span class="sm-txt"><em>I wouldn't read too much into anything here...</em></span>
+        <span class="sm-txt"><em>I had a year that nearly set me off the edge, I feel like a 5 I can't pretend</em></span>
 
         <div class="m20">
           <ColorModePicker />
@@ -79,7 +79,7 @@ export default {
     new TypeIt("#type-it-text")
     .type("do you wish to continue?", {speed: 60, delay: 200})
     .delete(25, {delay: 250})
-    .type("access granted", {speed: 40})
+    .type("access granted", {speed: 50, delay: 400})
     .delete(15, {delay: 250})
     .type("welcome to my personal website", {speed: 60, delay: 200})
     .break({delay: 300})
