@@ -4,7 +4,7 @@
     <div class="home-container" >
       <div class="u-full-width">
         <h1 class="site-title">
-            albert<span class="txt-color">-</span>farrales
+            albert<span class="txt-color"> farrales</span>
         </h1>
         <h5 class="subtitle" id="type-it-text">
           <!-- Fancy Typed Text -->
@@ -12,7 +12,7 @@
         <p>
           chasing happiness / aspiring business analyst
         </p>
-        <span class="sm-txt"><em>I had a year that nearly set me off the edge, I feel like a 5 I can't pretend</em></span>
+        <span class="sm-txt"><em></em></span>
 
         <div class="m20">
           <ColorModePicker />
@@ -85,7 +85,7 @@ export default {
     .break({delay: 300})
     .type("can i interest you in...", {speed: 60})
     .break({delay: 100})
-    .type("<a href='/blog/'>some posts</a>", {speed: 60})
+    .type("<a href='/blog/'>my subpar blog</a>", {speed: 60})
     .break({delay: 200})
     .type("or maybe", {speed: 60})
     .break({delay: 200})
