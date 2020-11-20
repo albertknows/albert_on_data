@@ -1,9 +1,9 @@
 ---
-title: CS171A Capstone Project
-seo_title: by: Albert Farrales
-summary: Senior Year aka Junior Year
+title: nuxt static skeleton
+seo_title: nuxt static skeleton
+summary: Skeleton Nuxt Blog using Nuxt-Content, Netlify CMS, and a few
   additional features
-seo_desc: Still Pending Review
+seo_desc: Skeleton Nuxt Blog using Nuxt-Content, Netlify CMS, and a few
   additional features
 ---
 All Integrated Software and Applications with albertfarrales.com:
