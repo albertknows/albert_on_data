@@ -28,11 +28,11 @@ export default {
     },
   head() {
       return {
-          title: 'Blog - Page ' + this.pgNum + ' | greg on data',
+          title: 'Blog - Page ' + this.pgNum + ' | albertknows',
           meta: [
               { hid: 'description', 
               name: 'description', 
-              content: 'greg on data Blog - Trying to make sense of book data...' }
+              content: 'Albert Farrales - One Day at a Time' }
           ]
       }
   },
