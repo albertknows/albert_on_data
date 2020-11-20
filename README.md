@@ -1,8 +1,4 @@
-# greg on data
-
-Live site: https://gregondata.com/
-
-My personal website to muse on data science and other random subjects.
+# albert farrales
 
 ## Notes
 
@@ -18,18 +14,3 @@ Built with:
     - [Netlify Sitemap Plugin](https://github.com/netlify-labs/netlify-plugin-sitemap)
 - [illlustrations](https://illlustrations.co/)
 - A few other packages
-
-## If you want to use this template for your blog
-
-- Use this boilerplate template of my blog - https://github.com/gms64/nuxt-static-skeleton
-    - directions to get up and running are there
-- or: clone this repo and change variables yourself
-
-## Other Projects
-
-- [Next Novel Project](https://nextnovelproject.com/)
-
-## Dumb Future Projects 
-
-- StackExchange Tags Analysis (view counts, users, etc)
-- Data Science Book-Related Stuff
