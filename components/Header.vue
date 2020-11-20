@@ -1,6 +1,6 @@
 <template>
     <header class="header">
-      <nuxt-link to="/" class="logo">g<span class="txt-color">/</span>d</nuxt-link>
+      <nuxt-link to="/" class="logo">a<span class="txt-color">f</span></nuxt-link>
       <input class="menu-btn" type="checkbox" id="menu-btn" v-model="menuChecked"/>
       <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
       <li class="mobile-color-mode" @click="colors.push(colors.shift()); $colorMode.preference = colors[0]">
