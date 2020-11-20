@@ -1,5 +1,5 @@
 ---
-title: welcome to the blog
+title: Welcome to the Blog
 seo_title: Welcome to the Blog
 summary: Hey guys, wanted to welcome you to my personal blog. Don't know how often I'll be posting on here, but I'll plan on posting something every week or so... 
 seo_desc: Welcome to my personal blog
