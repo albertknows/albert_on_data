@@ -1,8 +1,8 @@
 {
-  "name": "greg_on_data",
+  "name": "albert_on_data",
   "version": "1.0.0",
   "description": "my personal site",
-  "author": "Greg",
+  "author": "Albert",
   "private": true,
   "scripts": {
     "dev": "nuxt",
