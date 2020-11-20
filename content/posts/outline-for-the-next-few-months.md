@@ -1,5 +1,5 @@
 ---
-title: How to Make Money off the Jake Paul vs Nate Robinson Fight
+title: how to make money off the jake paul vs nate robinson fight
 seo_title: How to Make Money off the Jake Paul vs Nate Robinson Fight
 summary: How to Make Money off the Jake Paul vs Nate Robinson Fight
 seo_desc: How to Make Money off the Jake Paul vs Nate Robinson Fight
