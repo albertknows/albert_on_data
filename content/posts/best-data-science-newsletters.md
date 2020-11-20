@@ -1,5 +1,5 @@
 ---
-title: finding the best data science newsletters
+title: Finding the Best Data Science Newsletters
 seo_title: Finding The Best Data Science Newsletters
 summary: Trying to find the best data science podcasts to subscribe to. With Data Science! Well really, really, really bad 'Data Science'
 seo_desc: The best data science newsletters out there for 2020. Tackling data science, data engineering, data analytics, and data visualization.
