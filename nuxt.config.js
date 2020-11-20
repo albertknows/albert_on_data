@@ -75,7 +75,7 @@ export default {
     }
   },
   sitemap: {
-    hostname: 'https://gregondata.com',
+    hostname: 'https://albertfarrales.com',
     trailingSlash: true,
     exclude: [
       '/admin/**'
