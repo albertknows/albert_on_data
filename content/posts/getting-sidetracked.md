@@ -1,5 +1,5 @@
 ---
-title: stock picks as of 11/08/2020
+title: Stock Picks as of 11/08/2020
 seo_title: Stock Picks as of 11/08/2020
 summary: Top 5 Stocks for November-December
 seo_desc: Top 5 Stocks for November-December
