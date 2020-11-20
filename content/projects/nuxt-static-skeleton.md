@@ -1,9 +1,9 @@
 ---
-title: nuxt static skeleton
+title: template 1
 seo_title: nuxt static skeleton
-summary: Skeleton Nuxt Blog using Nuxt-Content, Netlify CMS, and a few
+summary: summary template
   additional features
-seo_desc: Skeleton Nuxt Blog using Nuxt-Content, Netlify CMS, and a few
+seo_desc: doesn't include special highlights and 
   additional features
 ---
 All Integrated Software and Applications with albertfarrales.com:
