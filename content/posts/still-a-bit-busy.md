@@ -1,5 +1,5 @@
 ---
-title: the best and cheapest place to buy electronics
+title: The Best and Cheapest Place to Buy Electronics
 seo_title: Still a Bit Busy
 summary: Forget Target. Forget Walmart. Forget OfferUp. Forget FeeBay.
 seo_desc: The Best and Cheapest Place to Buy Electronics
