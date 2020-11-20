@@ -1,6 +1,6 @@
 ---
 title: about
-seo_title: About
+seo_title: About Albert F
 seo_desc: My personal site on technology, data, and other random musings.
 ---
 
