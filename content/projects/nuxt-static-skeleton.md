@@ -6,7 +6,6 @@ summary: Senior Year aka Junior Year
 seo_desc: Still Pending Review
   additional features
 ---
-
 All Integrated Software and Applications with albertfarrales.com:
 
 - Home Page (custom)
