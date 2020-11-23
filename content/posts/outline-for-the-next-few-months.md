@@ -1,7 +1,7 @@
 ---
 title: how to make money off the jake paul vs nate robinson fight
 seo_title: how to make money off the jake paul vs nate robinson fight
-summary: Optimizing Your Bets
+summary: Optimizing Your Bets w/ abertknowsYT!
 seo_desc: Optimizing Your Bets
 createdAt: 2020-09-09 06:00:00
 date: 2020-09-09T18:17:57.500Z
@@ -22,4 +22,5 @@ TLDR why you bet on Jake Paul:
 
 Current Positions: 
 
-$750 on Jake Paul (-170 Favorite). Lose 750 / Win 441.18.
+$550 Jake Paul (-170 Favorite). Lose 750 / Win 441.18.
+$50 Jake Paul KO First Round (+600 Underdog)
