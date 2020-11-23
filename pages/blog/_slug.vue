@@ -26,14 +26,14 @@ import commentBox from 'commentbox.io';
     },
     head() {
         return {
-        title: (this.article.seo_title || this.article.title) + ' | greg on data',
+        title: (this.article.seo_title || this.article.title) + ' | albert farrales',
         meta: [
             { hid: 'description', 
             name: 'description',
             content: (this.article.seo_desc || this.article.preview) },
             {
                 'property':  'og:url',
-                'content':  `https://gregondata.com/blog/${this.article.slug}/`,
+                'content':  `https://albertfarrales.com/blog/${this.article.slug}/`,
             },
             {
                 'property':  'og:title',
