@@ -42,14 +42,14 @@ export default {
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'I was lost felt nothing at but I'm coming back now.' },
+      content: 'when it comes to the end, you have to let go' },
       {
           'property':  'og:url',
           'content':  `https://alberfarrales.com/`,
       },
       {
           'property':  'og:title',
-          'content':  `albertfarrales - a data science blog`,
+          'content':  `albert farrales - story of my life`,
       },
       {
           'property':  'og:type',
@@ -57,7 +57,7 @@ export default {
       },
       {
           'property':  'og:description',
-          'content': `A personal data science blog meant to discuss the field at a high level.`.replace(/<\/?[^>]+(>|$)/g, ""),
+          'content': `when it comes to the end, you have to let go`.replace(/<\/?[^>]+(>|$)/g, ""),
       },
       {
           'property':  'og:image',
