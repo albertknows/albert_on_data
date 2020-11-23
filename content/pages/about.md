@@ -12,8 +12,6 @@ My name is Albert Farrales and I'm currently 19 years old.
   Inc. and am attending classes online concurrently at Foothill College 
   and UCSC.
   
-  Side Hustles:  Online
-  
   Hobbies: Poker, Basketball, Stock Options (r/WallStreetBets), Reselling Clothing and Sports Memorabilia
   
   Favorite Artist: Dominic Fike, The Strokes, Kanye West, Wallows
