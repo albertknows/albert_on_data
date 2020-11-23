@@ -1,6 +1,6 @@
 ---
 title: contact
-seo_title: Contact Albert F
+seo_title: Contact
 summary: Contact Page for my personal website
 seo_desc: Contact Page for my personal website
 ---
