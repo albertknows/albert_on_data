@@ -1,7 +1,7 @@
 ---
 title: how to make money off the jake paul vs nate robinson fight
 seo_title: how to make money off the jake paul vs nate robinson fight
-summary: Optimizing Your Bets w/ abertknowsYT!
+summary: Why am I Betting Heavy on Jake Paul?
 seo_desc: Optimizing Your Bets
 createdAt: 2020-10-05 06:00:00
 date: 2020-10-05T18:17:57.500Z
