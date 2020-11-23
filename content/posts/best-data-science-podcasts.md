@@ -75,28 +75,6 @@ date: 2020-09-09T19:17:57.500Z
 
 
 
-
-
-## why i want to find data science podcasts
-
-This would normally be at the top of an article on finding data science podcasts. Well it would be at the top of any article. But realistically, most people are finding this from google, and they're just looking for the answer that's at the top of the page. If you type in 'the most popular data science podcasts', you really don't want to have to scroll down endlessly to find the answer you're looking for. So to make *their* experience better, we're just leaving the answer up there. And giving them sass. Lots of sass.
-
-Anyways, I really like listening to things. While newsletters are great for keeping up with current events and blogs are great for learning specific things, podcasts have a special place in my heart for allowing me to aimlessly learn something new every day. The format really lends itself to delivering information efficiently, but in a way where you can multitask.  Pre-COVID, my morning commute was typically full of podcasts. While COVID has rendered my commute a nonexistent affair, I still try to listen to at least a podcast a day if I can manage it.  My view is that 30 minutes of learning a day will really add up in the long run, and I feel that podcasts are a great way to get there.
-
-Now that we've been through my love affair with podcasts, you can imagine my surprise when I started looking for a few data science ones to subscribe to and I *didn't* find a tutorial on how to use web scraping to find the most popular data science podcasts to listen to.  I know, crazy.  There's a web scraping tutorial on everything under the sun except for - seemingly - podcasts.  I mean there's probably not one on newsletters either, but we'll leave that alone for now... 
-
-So if no one else is crazy enough to write about finding data science podcasts with web scraping, then...
-
-
-
-## gameplanning the process
-
-By now we're almost certainly rid of those savages who are only here for the **answer** (*gasp, how could they*), so we'll go into the little process I went through to gather the data.  It's not particularly long, and took me probably an hour to put it together, so it should be a good length for an article.
-
-I'm using python here with an installation of Anaconda (which is a common package management / deployment system for python).  I'll be running this in a Jupyter notebook, since its a one-off task that I don't need to use ever again... hopefully.
-
-In terms of what I'm going to do, I'll run a few google keyword searches which are limited to the 'https://podcasts.apple.com/us/podcast/' domain and scrape the results for the first few pages.  From there I'll just be scraping the apple podcast page to get the total number of ratings and the average rating. Yea, the data will be biased, but its a quick and dirty way to get the answer I'm looking for.
-
 ## code to find top data science podcasts - version 1
 
     # import default python packages
@@ -275,10 +253,6 @@ Anyways, that was the full process in creating the above list of data science po
 
 ## code to find top data science podcasts - version 2
 
-Well, that was fine, but I think its actually lacking a bit.  There seem to be a few podcasts that I've stumbled across that are missing which I was hoping this would capture.  So we're going to switch some stuff up.  First, I'm going to use a mobile user agent to tell Google I'm searching from my phone.
-
-Why? Well Google shows different results for desktop searches vs mobile searches, so if we're looking to find the best podcasts, we want to be where most of the searches are actually happening.  And since you basically always listen to podcasts on your phone, it probably makes sense to search *from your phone*...  The code for that is below, the main changes are in which elements are scraped from the page
-
     # Mobile Search Version
     headers = {"user-agent" : MOBILE_USER_AGENT}
                 
@@ -324,8 +298,6 @@ What else did I switch up? I switched the Google queries up a bit and added a fe
 And that's it - all of the changes I made for the second version.  The results are updated up top, but it gets a more complete 
 
 ### code to find top data science podcasts - version 3
-
-And I'm an idiot. 'Fixing' my queries to only find the 'best data science podcasts' ended up making me miss a few of the good ones I found earlier.  So I'm going to do as any good data scientist does and just combine the results of both sets of queries...
 
     # Queries
     list_kwargs = [
