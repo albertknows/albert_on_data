@@ -26,11 +26,11 @@ export default {
       PrevNextPg
   },
   head: {
-      title: 'Blog | greg on data',
+      title: 'Blog | albert farrales',
       meta: [
           { hid: 'description', 
           name: 'description', 
-          content: 'greg on data Blog - Trying to make sense of book data...' }
+          content: 'albert farrales blog - Trying to make sense of book data...' }
       ]
   },
   async asyncData({ $content, params, env }) {
