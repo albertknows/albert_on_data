@@ -17,11 +17,11 @@
 
 export default {
   head: {
-      title: 'Projects | greg on data',
+      title: 'Projects | albert farrales',
       meta: [
           { hid: 'description', 
           name: 'description', 
-          content: 'Projects by greg - a list of personal projects I\'ve accumulated over the past few months.' }
+          content: 'Projects by Albert - list of personal projects I\'ve accumulated over the past few months' }
       ]
   },
   async asyncData({ $content, params }) {
