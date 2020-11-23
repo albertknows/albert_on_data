@@ -1,5 +1,5 @@
 ---
-title: Seattle Goals
+title: beep boop
 seo_title: Seattle Goals
 summary: Complete in the Next 2 Years
 seo_desc: Complete in the Next 2 Years
