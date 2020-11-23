@@ -38,11 +38,11 @@ export default {
   },
   head() {
     return {
-      title: 'albert farrales - a data science blog',
+      title: 'albert farrales - story of my life',
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'A personal data science blog meant to discuss the field at a high level.' },
+      content: 'I was lost felt nothing at but I'm coming back now.' },
       {
           'property':  'og:url',
           'content':  `https://alberfarrales.com/`,
