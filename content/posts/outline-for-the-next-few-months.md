@@ -23,4 +23,5 @@ TLDR why you bet on Jake Paul:
 Current Positions: 
 
 $550 Jake Paul (-170 Favorite). Lose 750 / Win 441.18.
+
 $50 Jake Paul KO First Round (+600 Underdog)
