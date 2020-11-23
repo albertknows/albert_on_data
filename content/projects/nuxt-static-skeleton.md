@@ -2,7 +2,6 @@
 title: template 1
 seo_title: nuxt static skeleton
 summary: summary template
-  additional features
 seo_desc: doesn't include special highlights and 
   additional features
 ---
