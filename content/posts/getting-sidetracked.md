@@ -12,4 +12,8 @@ Background: Called SQ at 49 dollars, SHOP at 119, TSLA at 320 Before 4-1 Split.
 
 1. APRHIA INC. ($5.50) - After the presidential win by Joe Biden it's safe to say the legalization of marijuana federally is right around the corner. Will reach sub-16 highs similar to 2018 from marijuana legaliziations rumors.
 
-To be continued after midterms...
+2. Palantir Technologies Inc ($18.69) - Founded by PayPal Founder, Peter Thiel... Do I need to say anything else? Whatever this dude touches turns into gold. If you don't trust me then trust George Soros (https://seekingalpha.com/article/4389271-palantir-gets-george-soros-nod-of-approval). In today's society where your information is the currency, PLTR seeks to capitalize on the data analytic sector.
+
+Edit (11/23/2020): As of today, George Soros has decided to dump his 18M shares of PLTR due to disputing ethical reasons from SFM. In my opinion this stock is still a buy at $21.04.
+
+3. Xiaopeng Motors ($54.10) - You've heard of Alibaba the so called "Chinese Amazon", now look to XPENG the "Chinese Tesla". No literally, XPENG has been stealing confidential and proprietary information from Tesla which is one of the reasons why XPENG's autopilot software is highly regarded. Backed by big corporations in China such as Alibaba and a pushing DRIVE (ba-dum-tss) from Chinese government to produce some successful EV's, I don't see XPENG failing for years to come. Other pro's include vertical integration supply chain similar to Tesla's and consumer-favored price points (sub-30k USD).
