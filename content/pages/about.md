@@ -1,7 +1,7 @@
 ---
 title: about
 seo_title: About
-seo_desc: My personal site on technology, data, and other random musings.
+seo_desc: A Personal Site in a Non-Personal World
 ---
 
 My name is Albert Farrales and I'm currently 19 years old. 
@@ -12,15 +12,15 @@ My name is Albert Farrales and I'm currently 19 years old.
   Inc. and am attending classes online concurrently at Foothill College 
   and UCSC.
   
-  Side Hustles: Reselling Clothing Online
+  Side Hustles:  Online
   
-  Hobbies: Poker, Basketball, Stocks (r/WallStreetBets)
+  Hobbies: Poker, Basketball, Stock Options (r/WallStreetBets), Reselling Clothing and Sports Memorabilia
   
-  Favorite Artist: Dominic Fike and The Strokes
+  Favorite Artist: Dominic Fike, The Strokes, Kanye West, Wallows
   
-  Favorite Color: Green and White
+  Favorite Color: Green or White
   
-  Favorite Sports Team: Los Angeles Lakers
+  Favorite Athlete: Kobe Bryant
   
 
 
