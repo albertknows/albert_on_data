@@ -72,35 +72,6 @@ These newsletters were mentioned one time each in the lists I was referencing. F
 - https://lionbridge.ai/articles/the-best-ai-machine-learning-newsletters-to-subscribe-to/
 - https://dataconomy.com/2018/01/5-awesome-data-science-subscriptions-keep-informed/
 
-
-
-
-## newsletter time!
-
-You've made it to the body of the article! Congratulations!
-
-In today's post, I'm continuing my completely absurd crusade to find publications to subscribe to - next up on my list is newsletters.  My previous articles were about [twitter accounts](/blog/best-data-science-twitter-accounts/) and [podcasts](/blog/best-data-science-podcasts/), if you're inclined to check them out.
-
-But similar to my views on podcasts, I love newsletters. I find them to be most useful for keeping up with all the cool, new developments in the fields that I'm interested in. Unlike other platforms - *cough* Twitter *cough* - where you get bogged down with a deluge of information, newsletters typically boil everything down into 5-10 bullet points per week (or month). And brevity is nice.
-
-*And* I recently found a cool app\* that lets me subscribe to them *outside* of my normal email, so I can have a separate 'Data Science/Tech Newsletter' app, effectively.  Which is *fantastic*. Like truly, honestly, fantastic.  Highly recommend.  
-
-\*For reference, the newsletter app is called [slick inbox](https://slickinbox.com/) and it's still in beta.  There's also apparently one called [stoop inbox](https://stoopinbox.com/), which seems pretty similar. I don't endorse either one of these, nor do I have any affiliation - I just like having newsletters out of my inbox so that I can *actually* read them when I have free time.
-
-Anyways, you probably don't care about that, lets get on to the process.
-
-## gameplanning the process
-
-So, off the back of some silly articles where I found popular twitter accounts and podcasts, I thought... what next? 
-
-The answer? Sleep. Also, work. But then, newsletters. Newsletters are definitely next.
-
-But how to go about doing this?
-
-My first thought was to find a site that aggregates newsletter listings and estimates subscribers, but I struck out hard on that front. So I moved to plan B - google-ing what the best data science newsletters were. That search brought me to a lot of blog posts in list format, which had links to - you guessed it - newsletters.  My bright data-science-y mind thought, "Hey, you can scrape these links and count the frequency they occur in the articles - that'll be an easy way to get your answer". So that's *exactly* what I did.
-
-Well, that's what I scoped out and built... unfortunately, I had to scrap the code because links to newsletters are inconsistent (in that some people link to the main site, some to a subscribe-specific link, a newsletter-hosting service, etc).  But since I did already build the code, I think its worth sharing... even if it looks like its held together with duct tape.
-
 ## code to find top data science newsletters
 
 I'm going to throw the code below with a bit less than the standard amount of commentary.  Since it doesn't *actually* work, no one's really going to end up using it... probably?
