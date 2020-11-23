@@ -13,7 +13,7 @@
 export default {
   head() {
     return {
-      title: (this.page.seo_title || this.page.title) + ' | greg on data',
+      title: (this.page.seo_title || this.page.title) + ' | albert farrales',
       meta: [
           { hid: 'description', 
           name: 'description',
