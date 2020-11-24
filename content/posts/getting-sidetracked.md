@@ -1,9 +1,9 @@
 ---
-title: Stock Picks as of 11/08/2020
+title: Stock Picks as of 11/17/2020
 seo_title: Stock Picks as of 11/08/2020
 summary: Top 5 Stocks to Choose for November - December 2020!
 seo_desc: Top 5 Stocks for November-December
-createdAt: 2020-09-19 06:00:00
+createdAt: 2020-09-17 06:00:00
 date: 2020-09-19T18:17:57.500Z
 ---
 3 Stock Picks to Invest in Longterm:
