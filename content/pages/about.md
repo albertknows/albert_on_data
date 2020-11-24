@@ -8,15 +8,15 @@ Welcome to this my website. Second best blogger on the planet besides Creed Brat
 
   Hobbies: Poker, Basketball, Stock Options (r/WallStreetBets), Reselling Clothing and Sports Memorabilia
   
-  Favorite Artist: Dominic Fike, The Strokes, Kanye West, Wallows
-  
-  Favorite Color: Green or White
+  Favorite Artists: Dominic Fike, Kanye West, Coast Modern, & The Strokes
+ 
+  Favorite Colors: Green or White
   
   Favorite Athlete: Kobe Bryant
   
   Favorite Movie: Eternal Sunshine of the Spotless Mind
   
-  Favorite Show: ATLA or Regular Show
+  Favorite Shows: ATLA or Regular Show
   
 
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
