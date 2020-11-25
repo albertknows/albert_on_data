@@ -42,7 +42,7 @@ export default {
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'when it comes to the end, you have to let go' },
+      content: 'just a regular website on the internet' },
       {
           'property':  'og:url',
           'content':  `https://alberfarrales.com/`,
@@ -57,7 +57,7 @@ export default {
       },
       {
           'property':  'og:description',
-          'content': `when it comes to the end, you have to let go`.replace(/<\/?[^>]+(>|$)/g, ""),
+          'content': `just a regular website on the internet`.replace(/<\/?[^>]+(>|$)/g, ""),
       },
       {
           'property':  'og:image',
