@@ -36,16 +36,16 @@ export default {
   components: {
     ColorModePicker
   },
-  head() {
+   head() {
     return {
       title: 'albert farrales - story of my life',
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'just a regular website on the internet' },
+      content: 'just a regular website on the internet.' },
       {
           'property':  'og:url',
-          'content':  `https://alberfarrales.com/`,
+          'content':  `https://gregondata.com/`,
       },
       {
           'property':  'og:title',
@@ -57,7 +57,7 @@ export default {
       },
       {
           'property':  'og:description',
-          'content': `just a regular website on the internet`.replace(/<\/?[^>]+(>|$)/g, ""),
+          'content': `just a regular website on the internet.`.replace(/<\/?[^>]+(>|$)/g, ""),
       },
       {
           'property':  'og:image',
