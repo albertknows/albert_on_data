@@ -16,11 +16,8 @@ Welcome to this my website. Second best blogger on the planet besides Creed Brat
   
   Favorite Movie: Eternal Sunshine of the Spotless Mind
   
-  Favorite Shows: ATLA or Regular Show
-  
-  Current Mood: Sad
-  
-  
+  Favorite Shows: Regular Show or ATLA
+ 
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
 
 All Web Application Frameworks Used to Create this Site and Software are Listed Below:
