@@ -6,7 +6,7 @@ seo_desc: A Personal Site in a Non-Personal World
 
 Welcome to this my website. Second best blogger on the planet besides Creed Bratton. Its some combination of a blog and a collection of some random personal projects I've done in the past year. After college I plan to move to Seattle and hopefully start a career in IT before eventually applying for an MBA and climb the corporate ladder even further. (Please don't end up in a cubicle). Currently I'm an Account Manager at OMT Enterprises facilitating the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, shipment logistics, and research and development.
 
-  Hobbies: Poker, Basketball, Stock Options (r/WallStreetBets), Reselling Clothing and Sports Memorabilia
+  Hobbies: Poker, Basketball, Stock Options (r/WallStreetBets)
   
   Favorite Artists: Dominic Fike, Kanye West, Coast Modern, & The Strokes
  
