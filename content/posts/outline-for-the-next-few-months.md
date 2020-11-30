@@ -22,6 +22,11 @@ TLDR why you bet on Jake Paul:
 
 Current Positions: 
 
-$550 Jake Paul (-170 Favorite). Lose 750 / Win 441.18.
-
+$244.30 Jake Paul (-150 Favorite)
+$407.17 Jake Paul (-250 Favorite)
 $50 Jake Paul KO First Round (+600 Underdog)
+
+Edit as of 11/30/2020: 
+
+Jake Paul Wins KO 2nd Round :)
+Total Gambled: $700 approx / Total Payout: $1115.50 
