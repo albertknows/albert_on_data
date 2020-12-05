@@ -9,12 +9,13 @@ date: 2020-11-17T19:17:57.500Z
 Need to accomplish before leaving the state of Washington.
 
 
-- Skydiving
 - Roadtrip from Seattle across the Canadian Border
+- AFOQT Test!!
 - Find Freddie from iCarly
-- Amazon Business Analyst
+- Amazon Business Analyst Intern
 - Adopt a Dog
 - Be Happy
 - Get the Sonics to come back to Seattle
+- Skydiving
 - ???
 
