@@ -16,7 +16,7 @@ Welcome to my website. I'm the second best blogger on the planet besides Creed B
   
   Favorite Movie: Eternal Sunshine of the Spotless Mind
   
-  Favorite Shows: Regular Show or ATLA
+  Favorite Shows: Regular Show
  
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
 
