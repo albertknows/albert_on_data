@@ -14,7 +14,6 @@ Need to accomplish before leaving the state of Washington.
 - Find Freddie from iCarly
 - Amazon Business Analyst Intern
 - Adopt a Dog
-- Be Happy
 - Get the Sonics to come back to Seattle
 - Skydiving
 - ???
