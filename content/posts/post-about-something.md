@@ -19,6 +19,6 @@ date: 2020-09-16T19:17:57.500Z
 
 ## What is the best thing about the place you live?
 
-  Running during Sunset. If you're out during the ideal time sometimes the skies are full of pink, purple, and blue. It's a pretty sick view.
+  Running during the Sunset. If you're out during the ideal time sometimes the skies are full of pink, purple, and blue. It's a pretty sick view.
 
 
