@@ -30,8 +30,9 @@ seo_desc: Contact Page for my personal website
             rows="7"
         ></textarea>
     </p>
-    </p>
     <div data-netlify-recaptcha="true" class="form-row"></div>
+    </p>
+    </p>
     <p class="form-row form-submit">
         <button type="submit" class="button">Send Message</button>
     </p>
