@@ -4,7 +4,6 @@ seo_title: Contact
 summary: Contact Page for my personal website
 seo_desc: Contact Page for my personal website
 ---
-
 <template>
 	<form class="form">
 	<!-- <form v-on:submit.prevent="submitForm"> -->
