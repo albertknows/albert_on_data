@@ -1,5 +1,5 @@
 ---
-title: Answers to Random Questions 
+title: Answers to Random Questions
 seo_title: Answers to Random Questions
 summary: Answered in Nov. 2020
 seo_desc: Answered in Nov. 2020
