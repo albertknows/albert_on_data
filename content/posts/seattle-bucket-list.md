@@ -9,7 +9,7 @@ date: 2020-12-01T19:17:57.500Z
 Need to accomplish before leaving the state of Washington.
 
 
-- Roadtrip from Seattle across the Canadian Border
+- Roadtrip to Canada
 - Find Freddie from iCarly
 - AFOQT Test
 - Amazon Business Analyst Intern
