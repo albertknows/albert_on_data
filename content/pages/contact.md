@@ -4,89 +4,26 @@ seo_title: Contact
 summary: Contact Page for my personal website
 seo_desc: Contact Page for my personal website
 ---
-<template>
-	<form class="form">
-	<!-- <form v-on:submit.prevent="submitForm"> -->
-		<p v-bind:class="{ 'fld-error': $v.form.name.$error }">
-			<label>Name</label><br>
-			<input type="text" v-model.trim="form.name" @input="$v.form.name.$touch()">
-
-			<span class="msg-error" v-if="!$v.form.name.required">
-				<small>Field is required</small>
-			</span>
-			<span class="msg-error" v-if="!$v.form.name.minLength">
-				<small>Name must have at least {{ $v.form.name.$params.minLength.min }} letters.</small>
-			</span>
-		</p>
-
-		<p v-bind:class="{ 'fld-error': $v.form.job.$error }">
-			<label>Job</label><br>
-			<input type="text" v-model="form.job" @input="$v.form.job.$touch()">
-
-			<span class="msg-error" v-if="!$v.form.job.required">
-				<small>Field is required</small>
-			</span>
-		</p>
-
-		<p>
-			<button type="submit" @click.prevent="submitForm" :disabled="$v.form.$invalid">Send</button>
-		</p>
-	</form>
-</template>
-
-<style type="text/css">
-	.fld-error .msg-error  {
-		display: block;
-	}
-	.msg-error {
-		display: none;
-	}
-</style>
-
-<script type="text/javascript">
-	import axios from 'axios'
-	import { required, minLength } from 'vuelidate/lib/validators'
-	export default {
-		data() {
-			return {
-				form: {
-					name: '',
-					job: ''
-				}
-			}
-			
-		},
-		validations: {
-			form: {
-				name: {
-					required,
-					minLength: minLength( 4 )
-				},
-				job: {
-					required
-				}
-			}
-		},
-		methods: {
-			submitForm() {
-				let contactFormData = new FormData();
-				contactFormData.set( 'name', this.form.name );
-				contactFormData.set( 'job', this.form.job );
-				console.log( 'submitting data...' );
-				axios( {
-					method: 'post',
-					url: 'https://reqres.in/api/users',
-					data: contactFormData
-				} ).then( function ( response ) {
-					// Handle success.
-					
-					console.log( response );
-				} ).catch( function ( response ) {
-					// Handle error.
-					
-					console.log( response );
-				} );
-			}
-		}
-	}
-</script>
+<form name="simpleContactForm" method="POST" data-netlify="true" id="simple-contact-form" class="contact-form">
+    <p class="form-row">
+        <label id="contact-form-name-label" for="contact-form-name" class="form-label">Name</label>
+        <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" />
+    </p>
+    <p class="form-row">
+        <label id="contact-form-email-label" for="contact-form-email" class="form-label">Email address</label>
+        <input type="email" name="email" id="contact-form-email" aria-labelledby="contact-form-email-label" class="form-input" />
+    </p>
+    <p class="form-row">
+        <label id="contact-form-message-label" for="contact-form-message" class="form-label">Message</label>
+        <textarea
+            name="message"
+            id="contact-form-message"
+            aria-labelledby="contact-form-message-label"
+            class="form-textarea"
+            rows="7"
+        ></textarea>
+    </p>
+    <p class="form-row form-submit">
+        <button type="submit" class="button">Send Message</button>
+    </p>
+</form>
