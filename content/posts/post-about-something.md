@@ -1,6 +1,6 @@
 ---
-title: Answers to Random Questins 
-seo_title: Answers to Random Questins
+title: Answers to Random Questions 
+seo_title: Answers to Random Questions
 summary: Answered in Nov. 2020
 seo_desc: Answered in Nov. 2020
 createdAt: 2020-09-16 18:00:00
