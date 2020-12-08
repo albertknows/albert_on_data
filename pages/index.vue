@@ -18,6 +18,7 @@
           <ColorModePicker />
         </div>
       </div>
+      </p>
       <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </div>
 </div>
@@ -73,23 +74,23 @@ export default {
     });
     }
   },
-  mounted() {
+ mounted() {
     this.initParticles()
 
     new TypeIt("#type-it-text")
-    .type("do you wish to continue?", {speed: 150, delay: 300})
+    .type("do you wish to continue?", {speed: 125, delay: 300})
     .delete(25, {delay: 250})
-    .type("access granted", {speed: 80, delay: 400})
+    .type("access granted", {speed: 90, delay: 200})
     .delete(15, {delay: 250})
     .type("welcome to my personal website", {speed: 70, delay: 200})
     .break({delay: 300})
     .type("can i interest you in...", {speed: 60})
     .break({delay: 100})
-    .type("<a href='/blog/'>some random thoughts?</a>", {speed: 60})
+    .type("<a href='/blog/'>some interesting takes</a>", {speed: 60})
     .break({delay: 200})
     .type("or maybe", {speed: 60})
     .break({delay: 200})
-    .type("<a href='/projects/'>some projects of mine?</a>", {speed: 60})
+    .type("<a href='/about/'>just a quick introduction</a>", {speed: 60})
     .go();
 
     console.log("hey you, stop it.")
