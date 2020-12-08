@@ -15,7 +15,7 @@ seo_desc: Contact Page for my personal website
     </p>
     <p class="form-row">
         <label id="contact-form-message-label" for="contact-form-message" class="form-label">Message</label>
-        <textarea
+        <textarea>
             name="message"
             id="contact-form-message"
             aria-labelledby="contact-form-message-label"
