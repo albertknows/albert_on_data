@@ -5,9 +5,9 @@ summary: Contact Page for my personal website
 seo_desc: Contact Page for my personal website
 ---
 
-Feel free to contact me via the form below!
-
-<form method="post" action="#">
+<form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+  <input type="hidden" name="bot-field" />
+  <input type="hidden" name="form-name" value="contact" />
   <div className="field half first">
     <label htmlFor="name">Name</label>
     <input type="text" name="name" id="name" />
