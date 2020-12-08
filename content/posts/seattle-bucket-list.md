@@ -10,8 +10,8 @@ Need to accomplish before leaving the state of Washington.
 
 
 - Roadtrip from Seattle across the Canadian Border
-- AFOQT Test!!
 - Find Freddie from iCarly
+- AFOQT Test
 - Amazon Business Analyst Intern
 - Adopt a Dog
 - Get the Sonics to come back to Seattle
