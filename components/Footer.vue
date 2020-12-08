@@ -13,29 +13,23 @@
                   <a href="https://open.spotify.com/user/ur6gnl2xf4tmr1dar7bsfj6jp?si=yKPP5uCERauTb7860PSTMQ" aria-label="Spotify" target="_blank">
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Github"/>
                   </a>
-                </span>
+               </span>
                 &nbsp;&nbsp;
                 <span class="footer-link">
-                  <a href="https://twitter.com/" aria-label="Twitter" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter"/>
-                  </a>
-                </span>
-                &nbsp;&nbsp;
-                <span class="footer-link">
-                  <a href="https://www.linkedin.com/in/albertfarrales/" aria-label="LinkedIn" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Twitter"/>
-                      </a>
+                  <a href="https://vsco.co/albertfarrales/gallery" aria-label="VSCO" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg" alt="VSCO"/>
                 </span>
                 &nbsp;&nbsp;
                 <span class="footer-link">
                   <a href="https://www.youtube.com/watch?v=1c1dokm-wH4&ab_channel=albertknows" aria-label="YouTube" target="_blank">
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Twitter"/>
                      </a>
-                </span>
+                       </span>
                 &nbsp;&nbsp;
                 <span class="footer-link">
-                  <a href="https://vsco.co/albertfarrales/gallery" aria-label="VSCO" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg" alt="VSCO"/>
+                  <a href="https://www.linkedin.com/in/albertfarrales/" aria-label="LinkedIn" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Twitter"/>
+                      </a>
               </div>
             </div>
             <div class="col-xs-4 center-xs middle-xs">
