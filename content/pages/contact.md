@@ -29,6 +29,7 @@ seo_desc: Contact Page for my personal website
             class="form-textarea"
             rows="7"
         ></textarea>
+    
     </p>
     <div data-netlify-recaptcha="true" class="form-row"></div>
     <p class="form-row form-submit">
