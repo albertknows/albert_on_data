@@ -28,8 +28,8 @@ $407.17 Jake Paul (-250 Favorite)
 
 $50 Jake Paul KO First Round (+600 Underdog) 
 
-Edit as of 11/30/2020: 
+### Edit as of 11/30/2020: 
 
-Jake Paul Wins KO 2nd Round
+### Jake Paul Wins KO 2nd Round
 
-Total Payout: ~$1350.50 
+### Total Payout: ~$1350.50 
