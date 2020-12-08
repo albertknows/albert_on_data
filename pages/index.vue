@@ -42,7 +42,7 @@ export default {
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'just a regular website on the internet.' },
+      content: 'just a regular website on the internet' },
       {
           'property':  'og:url',
           'content':  `https://gregondata.com/`,
@@ -57,7 +57,7 @@ export default {
       },
       {
           'property':  'og:description',
-          'content': `just a regular website on the internet.`.replace(/<\/?[^>]+(>|$)/g, ""),
+          'content': `just a regular website on the internet`.replace(/<\/?[^>]+(>|$)/g, ""),
       },
       {
           'property':  'og:image',
@@ -85,7 +85,7 @@ export default {
     .break({delay: 300})
     .type("can i interest you in...", {speed: 60})
     .break({delay: 100})
-    .type("<a href='/blog/'>my subpar blog</a>", {speed: 60})
+    .type("<a href='/blog/'>some random thoughts</a>", {speed: 60})
     .break({delay: 200})
     .type("or maybe", {speed: 60})
     .break({delay: 200})
