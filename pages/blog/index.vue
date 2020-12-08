@@ -5,7 +5,6 @@
     <div v-for="article of articles" :key="article.slug">
         <h3 class="mb10">
           <NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">
-              {{ article.title.toLowerCase() }}
           </NuxtLink>
         </h3>
         <p><em>{{ (article.date || article.createdAt) | moment("MMMM Do, YYYY") }}</em></p>
