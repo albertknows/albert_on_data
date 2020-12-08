@@ -20,6 +20,10 @@ TLDR why you bet on Jake Paul:
 
 2. Experience and Training (Nate Robinson has had 2 Months to train compared to Jake Pauls 2 Years)
 
+3. Training Camp Difference - JP trains under BJ Flores, solid fighter and trainer. Spars with football athletes and amateur fighters. NR trains under Reyes Group, relatively unknown. No exsisting footage of sparring.
+
+4. Footage - JP's punches snap, turns body when throwing punches, looks solid and experienced throwing punches. NR looks too stiff but shows great power. Dosen't look to be exerting full energy when throwing punches on camera.
+
 Current Positions: 
 
 $444.30 Jake Paul (-150 Favorite) 
