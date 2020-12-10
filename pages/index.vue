@@ -42,7 +42,7 @@ export default {
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'just a regular website on the internet' },
+      content: 'just a regular website on the internet.' },
       {
           'property':  'og:url',
           'content':  `https://gregondata.com/`,
@@ -57,7 +57,7 @@ export default {
       },
       {
           'property':  'og:description',
-          'content': `just a regular website on the internet`.replace(/<\/?[^>]+(>|$)/g, ""),
+          'content': `just a regular website on the internet.`.replace(/<\/?[^>]+(>|$)/g, ""),
       },
       {
           'property':  'og:image',
