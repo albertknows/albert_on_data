@@ -11,7 +11,6 @@ Need to accomplish before leaving the state of Washington.
 
 - Roadtrip to Canada
 - Find Freddie from iCarly
-- AFOQT Test
 - Amazon Business Analyst Intern
 - Adopt a Dog
 - Get the Sonics to come back to Seattle
