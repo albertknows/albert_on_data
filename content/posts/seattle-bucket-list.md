@@ -10,7 +10,7 @@ Need to accomplish before leaving the state of Washington.
 
 
 - Roadtrip to Canada
-- Find Freddie from iCarly
+- Find Gibby from iCarly
 - Amazon Business Analyst Intern
 - Adopt a Dog
 - Get the Sonics to come back to Seattle
