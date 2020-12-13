@@ -1,10 +1,10 @@
 ---
 title: about
 seo_title: About
-seo_desc: A Personal Site in a Non-Personal World
+seo_desc: A Personal Site in a Non-Personal World, Albert Farrales
 ---
 
-Welcome to my website. I'm the second best blogger on the planet besides Creed Bratton. Hopefully this website can replace having no Twitter or Instagram for now. After college I plan to move to Seattle and hopefully start a career in IT before eventually applying for an MBA and climb the corporate ladder even further. (Please don't end up in a cubicle). Currently I'm an Account Manager at OMT Enterprises facilitating the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, shipment logistics, and research and development. 
+Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. Hopefully this website can replace my inactivity on social media for now. After college I plan to move to Seattle and hopefully start a career in IT before eventually applying for an MBA and climb the corporate ladder even further. (Please don't end up in a cubicle). Currently I'm an Account Manager at OMT Enterprises facilitating the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, shipment logistics, and research and development. 
 
   Hobbies: Poker, Basketball, Stock Options (r/WallStreetBets)
   
