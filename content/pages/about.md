@@ -18,7 +18,7 @@ Welcome to my website. I'm the second best blogger on the planet besides Creed B
   
   Favorite Show: Regular Show
   
-  Shoutout to Jason Farrales
+  Shoutout to Jason Farrales, wouldn't be here today without him.
  
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
 
