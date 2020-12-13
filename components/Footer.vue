@@ -14,11 +14,6 @@
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Github"/>
                   </a>
                </span>
-                &nbsp;&nbsp;
-                <span class="footer-link">
-                  <a href="https://vsco.co/albertfarrales/gallery" aria-label="VSCO" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg" alt="VSCO"/>
-                </span>
                  &nbsp;&nbsp;
                 <span class="footer-link">
                   <a href="https://www.instagram.com/albertfarrales/" aria-label="Instagram" target="_blank">
