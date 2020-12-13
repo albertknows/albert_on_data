@@ -15,9 +15,11 @@
         <span class="sm-txt"><em></em></span>
 
         <div class="m20">
+        </p>
           <ColorModePicker />
         </div>
       </div>
+      </p>
       <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </div>
 </div>
