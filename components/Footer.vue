@@ -13,11 +13,17 @@
                   <a href="https://open.spotify.com/user/ur6gnl2xf4tmr1dar7bsfj6jp?si=yKPP5uCERauTb7860PSTMQ" aria-label="Spotify" target="_blank">
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Github"/>
                   </a>
-               </span>
-                 &nbsp;&nbsp;
+               </span> 
+               &nbsp;&nbsp;
                 <span class="footer-link">
                   <a href="https://www.instagram.com/albertfarrales/" aria-label="Instagram" target="_blank">
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Twitter"/>
+                     </a>
+                       </span>
+                 &nbsp;&nbsp;
+                <span class="footer-link">
+                  <a href="https://www.ebay.com/usr/alberfarra" aria-label="eBay" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ebay.svg" alt="eBay"/>
                      </a>
                        </span>
                 &nbsp;&nbsp;
