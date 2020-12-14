@@ -3,7 +3,7 @@ title: How to Make Money Off the Jake Paul vs Nate Robinson Fight
 seo_title: How to Make Money Off the Jake Paul vs Nate Robinson Fight
 summary: Why am I Betting Heavy on Jake Paul?
 seo_desc: Optimizing Your Bets
-createdAt: 2020-10-05 06:00:00
+createdAt: 2020-11-28 06:00:00
 date: 2020-10-05T18:17:57.500Z
 ---
 Let me start off by saying I'm not a professional but have done significant research on both fighters prior to the present-day.
