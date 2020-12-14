@@ -22,8 +22,8 @@
                        </span>
                  &nbsp;&nbsp;
                 <span class="footer-link">
-                  <a href="https://www.ebay.com/usr/alberfarra" aria-label="eBay" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ebay.svg" alt="eBay"/>
+                  <a href="twitter.com" aria-label="twitter" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="eBay"/>
                      </a>
                        </span>
                 &nbsp;&nbsp;
