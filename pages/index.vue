@@ -10,7 +10,7 @@
           <!-- Fancy Typed Text -->
         </h5>
         <p>
-          dissapearing into the twenty-first century
+          disappearing into the twenty-first century
         </p>
         <span class="sm-txt"><em></em></span>
 
