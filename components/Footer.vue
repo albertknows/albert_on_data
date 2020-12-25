@@ -16,8 +16,8 @@
                </span>
                  &nbsp;&nbsp;
                 <span class="footer-link">
-                  <a href="https://louimichelcie.com/" aria-label="twitter" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openai.svg" alt="eBay"/>
+                  <a href="https://vsco.co/albertfarrales/gallery" aria-label="vsco" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg" alt="vsco"/>
                      </a>
                        </span>
                          &nbsp;&nbsp;
