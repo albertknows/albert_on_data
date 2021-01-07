@@ -8,11 +8,11 @@ date: 2020-12-26T19:17:57.500Z
 ---
 Rules to Follow:
 
-1. Stop unnecessary overthinking.
-2. Save your money! Minimalism! (Use for Roth IRA Max, Stocks, Etc.)
+1. Stop unnecessary over thinking.
+2. Save your money! (Use for Roth IRA Max, Stocks, Etc.)
 3. Count Calories when You Can, Limit Fast Food.
 4. 80+ Avg for AFOQT Test, May Board? (Need 11 Flight Hours)
 5. Gain more job experience while waiting for OTS Results.
-6. Exersise Daily, Mile Minimum Per Day.
+6. Exercise Daily, Mile Minimum Per Day.
 7. Achieve Happiness.
 
