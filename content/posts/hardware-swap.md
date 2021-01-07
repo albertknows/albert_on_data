@@ -15,4 +15,4 @@ The phrase "the early bird gets the worm" holds true to r/HardwareSwap and most 
 
 The most savings you'll find from buying off r/HardwareSwap comes from the taxes that you'll save instead of buying from a retailer. With items often going for less that MSRP on r/HardwareSwap and savings in taxes, I've come to the conclusion that the free market tax-excluded market that r/HardwareSwap offers reigns king if you're willing to accept the relatively small risk. After all if you do get scammed charging back with PayPal should be easy as buyer protection tends to be stellar with the company.
 
-- Albert Farrales
+Albert Farrales
