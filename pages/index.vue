@@ -79,7 +79,7 @@ export default {
     this.initParticles()
 
     new TypeIt("#type-it-text")
-    .type("do you wish to continue?", {speed: 70, delay: 90})
+    .type("do you wish to continue?", {speed: 70, delay: 130})
     .delete(25, {delay: 250})
     .type("access granted", {speed: 80, delay: 120})
     .delete(15, {delay: 250})
@@ -88,9 +88,9 @@ export default {
     .type("can i interest you in...", {speed: 60})
     .break({delay: 100})
     .type("<a href='/blog/'>some interesting takes</a>", {speed: 90})
-    .break({delay: 200})
+    .break({delay: 50})
     .type("or maybe", {speed: 60})
-    .break({delay: 200})
+    .break({delay: 50})
     .type("<a href='/about/'>just a quick introduction</a>", {speed: 90})
     .go();
 
