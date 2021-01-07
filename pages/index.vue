@@ -79,7 +79,7 @@ export default {
     this.initParticles()
 
     new TypeIt("#type-it-text")
-    .type("do you wish to continue?", {speed: 70, delay: 130})
+    .type("do you wish to continue?", {speed: 200, delay: 130})
     .delete(25, {delay: 250})
     .type("access granted", {speed: 80, delay: 120})
     .delete(15, {delay: 250})
