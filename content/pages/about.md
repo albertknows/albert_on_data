@@ -10,7 +10,7 @@ Welcome to my website. I asipre to have a blog website as great as Creed Bratton
   
   Favorite Artists: Dominic Fike, Kanye West, & The Strokes
  
-  Favorite Colors: Green
+  Favorite Color: Green
   
   Favorite Athlete: Kobe Bryant
   
