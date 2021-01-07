@@ -11,21 +11,6 @@ Long Term: https://seekingalpha.com/article/4392952-palantir-valuation-opening-b
 
 Short Term: Articles such as Citron's claims of PLTR being a "full-on casino" began to emerge, https://markets.businessinsider.com/news/stocks/palantir-stock-price-target-short-selling-position-citron-research-pltr-2020-11-1029845368, leading to a pullback to around $23.20 on Tuesday. Bloomberg Terminals also indicated a Morgan Stanley analyst had downgraded the stock from 17 USD to 15 USD PT before Tuesday opening leading to a downward trend around $22.
 
-
-~3.5K USD Position:
-
-PLTR 12/31/20 $30 Call
-
-x2 PLTR 01/08/20 $34 Call
-
-PLTR 01/08/20 $30 Call
-
-PLTR 01/15/21 $34 Call
-
-PLTR 01/15/21 $34 Call
-
-20 Shares of PLTR @ $22.43
-
 Albert Farrales
 
 Edit: 45 million dollar USD contract with the FDA to supervise COVID-19 vaccine distributions led to PLTR breaking multiple resistance levels and surging over 21% this Monday, 12/7/2020.
