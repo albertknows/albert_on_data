@@ -81,7 +81,7 @@ export default {
     new TypeIt("#type-it-text")
     .type("do you wish to continue?", {speed: 80, delay: 100})
     .delete(25, {delay: 250})
-    .type("access granted", {speed: 80, delay: 25})
+    .type("access granted", {speed: 80, delay: 80})
     .delete(15, {delay: 250})
     .type("welcome to my personal website", {speed: 70, delay: 100})
     .break({delay: 300})
@@ -91,7 +91,7 @@ export default {
     .break({delay: 200})
     .type("or maybe", {speed: 60})
     .break({delay: 200})
-    .type("<a href='/about/'>just a quick introduction</a>", {speed: 100})
+    .type("<a href='/about/'>just a quick introduction</a>", {speed: 120})
     .go();
 
     console.log("hey you, stop it.")
