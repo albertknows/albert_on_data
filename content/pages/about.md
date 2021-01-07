@@ -4,13 +4,13 @@ seo_title: About
 seo_desc: A Personal Site in a Non-Personal World, Albert Farrales
 ---
 
-Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. Hopefully this website can replace my inactivity on social media for now. After college I plan to move to Seattle and hopefully start a career in IT before eventually applying for an MBA and climb the corporate ladder even further. (Please don't end up in a cubicle). Currently I'm an Account Manager at OMT Enterprises facilitating the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, shipment logistics, and research and development. 
+Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. After college I plan to move states and start a new life somewhere else. Currently I'm an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
 
   Hobbies: Poker, Basketball, Stock Options (r/WallStreetBets)
   
-  Favorite Artists: Dominic Fike, Kanye West, Coast Modern, & The Strokes
+  Favorite Artists: Dominic Fike, Kanye West, & The Strokes
  
-  Favorite Colors: Green or White
+  Favorite Colors: Green
   
   Favorite Athlete: Kobe Bryant
   
@@ -36,5 +36,5 @@ All Web Application Frameworks Used to Create this Site and Software are Listed 
     - [Netlify Sitemap Plugin](https://github.com/netlify-labs/netlify-plugin-sitemap)
 - [illlustrations](https://illlustrations.co/)
 
-Have a great day.
+Have a great day :)
 
