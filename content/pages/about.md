@@ -6,7 +6,7 @@ seo_desc: A Personal Site in a Non-Personal World, Albert Farrales
 
 Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. After college I plan to move states and start a new life somewhere else. Currently I'm an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
 
-  Hobbies: Basketball, Stock Options (r/WallStreetBets), Fashion
+  Hobbies: Basketball, Stock Options (r/WallStreetBets), Designer and Streetwear Fashion
   
   Favorite Music: https://open.spotify.com/user/ur6gnl2xf4tmr1dar7bsfj6jp?si=rryio8KFRqCVkWiJLvhWvw 
  
