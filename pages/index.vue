@@ -79,19 +79,19 @@ export default {
     this.initParticles()
 
     new TypeIt("#type-it-text")
-    .type("do you wish to continue?", {speed: 80, delay: 100})
+    .type("do you wish to continue?", {speed: 70, delay: 90})
     .delete(25, {delay: 250})
     .type("access granted", {speed: 80, delay: 120})
     .delete(15, {delay: 250})
-    .type("welcome to my personal website", {speed: 70, delay: 100})
+    .type("welcome to my personal website", {speed: 70, delay: 90})
     .break({delay: 300})
     .type("can i interest you in...", {speed: 60})
     .break({delay: 100})
-    .type("<a href='/blog/'>some interesting takes</a>", {speed: 100})
+    .type("<a href='/blog/'>some interesting takes</a>", {speed: 90})
     .break({delay: 200})
     .type("or maybe", {speed: 60})
     .break({delay: 200})
-    .type("<a href='/about/'>just a quick introduction</a>", {speed: 120})
+    .type("<a href='/about/'>just a quick introduction</a>", {speed: 90})
     .go();
 
     console.log("hey you, stop it.")
