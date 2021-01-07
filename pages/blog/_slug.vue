@@ -78,9 +78,5 @@ import commentBox from 'commentbox.io';
         const options = { year: 'numeric', month: 'long', day: 'numeric' }
         return new Date(date).toLocaleDateString('en', options)
         }
-    },
-    mounted() {
-        commentBox('5669956028989440-proj');
-    }
   }
 </script>
