@@ -30,7 +30,7 @@ Undisclosed Sum Favor of JP Win at (-150 Favorite)
 
 Undisclosed Sum Favor of JP Win at (-250 Favorite) 
 
-Undisclosed Sum Favor of JP Win 1st or 2nd Round (+600 Underdog) 
+Undisclosed Sum Favor of JP Win 1st (+600 Underdog) 
 
 ### Edit as of 11/30/2020: 
 
