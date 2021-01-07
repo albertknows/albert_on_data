@@ -81,7 +81,7 @@ export default {
     new TypeIt("#type-it-text")
     .type("do you wish to continue?", {speed: 80, delay: 100})
     .delete(25, {delay: 250})
-    .type("access granted", {speed: 80, delay: 80})
+    .type("access granted", {speed: 80, delay: 120})
     .delete(15, {delay: 250})
     .type("welcome to my personal website", {speed: 70, delay: 100})
     .break({delay: 300})
