@@ -8,7 +8,7 @@ Welcome to my website. I asipre to have a blog website as great as Creed Bratton
 
   Hobbies: Poker, Basketball, Stock Options (r/WallStreetBets)
   
-  Favorite Artists: Dominic Fike, Kanye West, & The Strokes
+  Favorite Music: https://open.spotify.com/user/ur6gnl2xf4tmr1dar7bsfj6jp?si=rryio8KFRqCVkWiJLvhWvw 
  
   Favorite Color: Green
   
