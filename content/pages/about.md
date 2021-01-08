@@ -4,7 +4,7 @@ seo_title: About
 seo_desc: A Personal Site in a Non-Personal World, Albert Farrales
 ---
 
-Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. After college I plan to move states and start a new life somewhere else. Currently I'm an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
+Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. After college I plan to move around and explore the country. Currently I'm an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
 
   Hobbies: Basketball, Stock Options (r/WallStreetBets), Designer and Streetwear Fashion
   
@@ -18,7 +18,7 @@ Welcome to my website. I asipre to have a blog website as great as Creed Bratton
   
   Favorite Show: Regular Show
   
-  Shoutout to Jason, wouldn't be here today without him.
+  Shoutout to my brother Jason, wouldn't be here today without him.
  
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
 
