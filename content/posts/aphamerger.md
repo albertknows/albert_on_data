@@ -1,6 +1,6 @@
 ---
-title: Next Stock Play - Merger Arbitrage
-seo_title: Next Stock Play - Merger Arbitrage
+title: Merger Arbitrage - Aphria Inc. and Tilray Inc.
+seo_title: Merger Arbitrage - Aphria Inc. and Tilray Inc.
 summary: 
 seo_desc: 
 createdAt: 2021-01-03 06:00:00
