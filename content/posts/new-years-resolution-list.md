@@ -17,11 +17,11 @@ Medium Term Goals (Few Months):
 
 4. Procurment Internship in OC? (Move)
 5. 20k Q1-Q2 Sales Jimmy
-6. Ace Final 3 Classes for Winter Quarter
+6. Ace Final 3 Classes for Winter Quarter & Graduate
 
 Long Term Goals (Span of this Year):
 
 7. Stop Unnecessary Overthinking!!!
 8. 85+ Avg for AFOQT (11 Flight Hours Remaining)
-9. Learn New Instrument (Piano) and Language Over Summer
+9. Learn Instrument and Language Over Summer
 
