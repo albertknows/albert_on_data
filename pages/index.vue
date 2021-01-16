@@ -47,7 +47,7 @@ export default {
       content: 'just a regular website on the internet.' },
       {
           'property':  'og:url',
-          'content':  `https://gregondata.com/`,
+          'content':  `https://albertfarrales.com/`,
       },
       {
           'property':  'og:title',
