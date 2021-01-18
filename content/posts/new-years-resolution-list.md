@@ -9,7 +9,7 @@ date: 2020-12-30T19:17:57.500Z
 
 Day to Day Goals:
 
-1. No Social Media Apps on Phone.
+1. No Social Media Apps on Phone. (Keep Snap for Connections)
 2. Limit Spending Habits! (Use $ for Roth IRA Maxout and Stocks)
 3. Count Calories when You Can, Limit Fast Food. (Always cook)
 
