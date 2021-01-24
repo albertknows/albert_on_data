@@ -16,4 +16,4 @@ Even with this risk, APHA is an extremely solid company that pre/post-merger wil
 
 While the US Market has gotten more efficient in the last decade, it's far from being a perfect market. The inefficiencies in the market allow for arbitrage opportunities, and, to a degree, that's what allows hedge funds to make profits consistently. Even if the merger doesn't go through which is pretty unlikely, Aphria is a solid company that will continue to dominate the cannabis market over the next 4 years at least. 
  
-Disclosure: I have no personal stake in APHA.
+**Disclosure: I have no personal stake in APHA.**
