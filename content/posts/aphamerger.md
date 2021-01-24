@@ -14,6 +14,6 @@ When Tilray and Aphria merge on approx. in the early half of 2021, APHA shares w
 
 Even with this risk, APHA is an extremely solid company that pre/post-merger will continue to dominate the industry. They are undervalued considering almost every other ticker is nowhere near profitable but Aphria has been consistently profitable and has exposure in Germany which is going to ramp up over the next few quarters. They also have one of the largest cash reserves which I believe they are hoarding in order to penetrate into the US market whenever they see an opportunity 
 
-While the US Market has gotten more efficient in the last decade, it's far from being a perfect market. The inefficiencies in the market allow for arbitrage opportunities, and, to a degree, that's what allows hedge funds to make profits consistently. This is my largest position so far and I continue to dollar cost average as the weeks go by. Even if the merger doesn't go through which is pretty unlikely, Aphria is a solid company that will continue to dominate the cannabis market over the next 4 years at least. 
+While the US Market has gotten more efficient in the last decade, it's far from being a perfect market. The inefficiencies in the market allow for arbitrage opportunities, and, to a degree, that's what allows hedge funds to make profits consistently. Even if the merger doesn't go through which is pretty unlikely, Aphria is a solid company that will continue to dominate the cannabis market over the next 4 years at least. 
  
 Disclosure: I have no personal stake in APHA.
