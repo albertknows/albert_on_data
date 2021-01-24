@@ -14,7 +14,7 @@ Nate Robinson has had around 2 months to train for the fight leading up to 11/30
 
 Don't just take my word on it, here's Faze Sensei's (trained and experience boxing professional) take on the fight: https://www.youtube.com/watch?v=bSHZW2SAuV0.
 
-TLDR why you bet on Jake Paul:
+**TLDR why you bet on Jake Paul:**
 
 1. Height Advantage of Jake Paul (6'1 compared to Nate Robinson - 5'9)
 
@@ -24,7 +24,7 @@ TLDR why you bet on Jake Paul:
 
 4. Footage - JP's punches snap, turns body when throwing punches, looks solid and experienced throwing punches. NR looks too stiff but shows great power. Doesn't look to be exerting full energy when throwing punches on camera.
 
-Current Positions: 
+**Current Positions:** 
 
 Undisclosed Sum Favor of JP Win at (-150 Favorite) 
 
@@ -32,6 +32,6 @@ Undisclosed Sum Favor of JP Win at (-250 Favorite)
 
 Undisclosed Sum Favor of JP Win 1st (+600 Underdog) 
 
-### Edit as of 11/30/2020: 
+**Edit as of 11/30/2020:** 
 
 Jake Paul Wins by KO 2nd Round. I don't think I'll ever see a money line with a payout like this ever again. In fact, Jake Paul's odds to win were severely undermined most likely due to the fact that most users were banking on Nate Robinson's pure athlketuicisim to beat JP. With a -150 money line showing that JP's implied probablity of winning was around 60%, significant research showed that NR almost had no shot of beating Jake mentioned above. 
