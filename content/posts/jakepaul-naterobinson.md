@@ -16,13 +16,13 @@ Don't just take my word on it, here's Faze Sensei's (trained and experience boxi
 
 **TLDR why you bet on Jake Paul:**
 
-1. Height Advantage of Jake Paul (6'1 compared to Nate Robinson - 5'9)
+Reason 1: Height Advantage of Jake Paul (6'1 compared to Nate Robinson - 5'9)
 
-2. Experience and Training (Nate Robinson has had 2 Months to train compared to Jake Paul's 2 Years)
+Reason 2: Experience and Training (Nate Robinson has had 2 Months to train compared to Jake Paul's 2 Years)
 
-3. Training Camp Difference - JP trains under BJ Flores, a solid fighter and trainer. Spars with football athletes and amateur fighters. NR trains under Reyes Group, relatively unknown. No existing footage of sparring.
+Reason 3: Training Camp Difference - JP trains under BJ Flores, a solid fighter and trainer. Spars with football athletes and amateur fighters. NR trains under Reyes Group, relatively unknown. No existing footage of sparring.
 
-4. Footage - JP's punches snap, turns body when throwing punches, looks solid and experienced throwing punches. NR looks too stiff but shows great power. Doesn't look to be exerting full energy when throwing punches on camera.
+Reason 4: Footage - JP's punches snap, turns body when throwing punches, looks solid and experienced throwing punches. NR looks too stiff but shows great power. Doesn't look to be exerting full energy when throwing punches on camera.
 
 **Current Positions:** 
 
