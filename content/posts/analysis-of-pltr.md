@@ -24,10 +24,15 @@ Apollo: A world-class continuous deployment system, Apollo allows Palantir to ra
 Fundamentals and Details for Palantir:
 
 SOLID GROWTH: Average revenue per customer grew at an annual rate of 30% since 2009 and contribution margins (margins per product) improved by 4x since 2019. In addition, top line revenue grew by 24.7% in 2019 and is expected to grow by more than 40% in 2020 due to COVID.
+
 SIGNIFICANT EARLY INVESTMENT, CLOSE TO PROFITABLE: bears say "NoT pRoFiTaBlE In 17 yEaRs". Bulls know this is actually bullish. Big investment = big rewards and Palantir's three flagship products are paying off now
+
 WORLD-CLASS TECHNOLOGY: Gotham, Foundry, and Apollo are state-of-the-art technology. Just watch some of their tech talks and investor presentations. Truly impressive.
+
 LACK OF COMPETITION: Peter Thiel thinks that competitions are for losers. Do you know what else is for losers? Being a PLTR bear. But also, PLTR has no competition. No other company is able to do broad data analysis from random data sources like they can. No other company is willing to work w/ government like PLTR is willing to.
+
 LEGAL PRECEDENCE: PLTR literally sued the Army for not using them, and WON.
+
 SKYWISE CASE STUDY: worked with Airbus to increase A350 production rate by 33%. Now they created an open data platform called Skywise that more than 100 airlines are using.
 
 Bear Case for Palantir aka Playing Devils Advocate:
