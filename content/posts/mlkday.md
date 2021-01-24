@@ -12,7 +12,7 @@ One of the beneficial effects that virtual assistants have is on the safety of s
 
 The data that Virtual Assistants use are based around the voice commands of the user talking to the device, and the Virtual Assistant responding back. The function inputs data by collecting audio of your request to the device, and saving it into a data file that is sent to the companies’ servers. Programs such as Automatic Speech Recognition transform the data from the audio to text through the analog waves in your voice. (3) After transforming the audio files into text, another program called Natural Language Processing helps the computers analyze and understand the human language through a series of algorithms. After the text file is transformed into a format understandable to the computer, the response is filtered into a program called Natural Language Processing which summarizes the text into its simplest form. Lastly, it undergoes another program called Text-to-Speech where the data is transformed from text to speech which is outputted through the speakers of the device. (5) One data privacy concern that arise from Virtual Assistants is the companies’ ability to record audio clips of what you say to it and sends it to the company's servers which are then saved.These files face a concern of being stolen and used by hackers or even corporations for things such as targeted advertising or malicious actions such as blackmail using your personal information. 
 
-Sources:
+**Sources:**
 
 1.https://arstechnica.com/gadgets/2017/12/guidemaster-everything-amazons-alexa-can-do-plus-the-best-skills-to-enable/, Valentina Palladino, “Guidemaster: Everything Amazon’s Alexa Can Do Plus the Best Skills to Enable,” source: arsTechnica, date viewed: Feb 28, 2018
 
