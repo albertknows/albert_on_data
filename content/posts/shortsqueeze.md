@@ -23,6 +23,6 @@ WSB gets pissed off and starts buying Gamestop stock while also encouraging each
 The short sellers get nervous and start closing their positions by buying stocks to return to the lender - sometimes even buying stock at prices higher than they sold them for, which results in a loss. Since they're also now buying stock, it drives the price up even further, resulting in even bigger potential losses for anyone short seller who holds on - something which is called a 'short squeeze'.
 
 **What are the implications of this short squeeze you may be asking?**
-Pretend you are on a rocketship to the moon and every 100 feet of elevation grants you 100 dollars of cash. Only problem is that the rocketship pilot is planning on dipping out at any time and if you don’t get off at the correct time, you’re short out of luck aka dead. A similar pattern was actually seen in Volkswagen which for a few minutes was considered the most valuable stock during 2008 until it essentially crashed.
+Imagine you are on a rocketship to the moon and every 100 feet of elevation that the rocket passes grants you 100 dollars sent straight to your Venmo. Only problem is that the rocketship pilot is planning on dipping out at any given time and if you don’t get off at the before he does, you’re short out of luck cause the rocket will explode. A similar pattern was actually seen in Volkswagen which for a few minutes was considered the most valuable stock during 2008 until it essentially crashed.
 
 (VW Short Squeeze.png)
