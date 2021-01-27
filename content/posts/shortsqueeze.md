@@ -7,11 +7,11 @@ createdAt: 2021-01-27 06:00:00
 date: 2021-01-27T18:17:57.500Z
 ---
 
-Preface: What a day. I’ve been on r/WallStreetBets for around 3 years now and I don’t think there has ever been a trading week such as this in the entire history of the sub-reddit. I go more into detail below but the battle against Wall Street has just begun. I should’ve hopped on the GameStop train but something in my heart was preventing me from doing so. I think I’m still salty about the one time I sold my 7 Xbox One games to them for $3.46 in store credit.
+**Preface:** What a day. I’ve been on r/WallStreetBets for around 3 years now and I don’t think there has ever been a trading week such as this in the entire history of the sub-reddit. I go more into detail below but the battle against Wall Street has just begun. I should’ve hopped on the GameStop train but something in my heart was preventing me from doing so. I think I’m still salty about the one time I sold my 7 Xbox One games to them for $3.46 in store credit.
 
-Personal Trading Update: I don’t think my portfolio has ever climbed this high intraday ever in my 3 years of trading. My current portfolio consist of shares in Nokia, Blackberry, and Palantir. I ended up selling all 100 shares of Palantir at around 39.50 dollars average and then buying puts around the 44 dollar mark which are currently printing. I sold a few hundred shares. Nokia at the top for 9 dollars and started buying more at the 6.75 mark. I bought more into Blackberry which continues to be my biggest gain so far, almost hovering around a total return of 102% peak. During after-market hours I fomo’d into AMC at around $16.43 and am currently down, but am expecting r/WSB to pump the stock to the moon. 🚀🚀🚀
+**Personal Trading Update:** I don’t think my portfolio has ever climbed this high intraday ever in my 3 years of trading. My current portfolio consist of shares in Nokia, Blackberry, and Palantir. I ended up selling all 100 shares of Palantir at around 39.50 dollars average and then buying puts around the 44 dollar mark which are currently printing. I sold a few hundred shares. Nokia at the top for 9 dollars and started buying more at the 6.75 mark. I bought more into Blackberry which continues to be my biggest gain so far, almost hovering around a total return of 102% peak. During after-market hours I fomo’d into AMC at around $16.43 and am currently down, but am expecting r/WSB to pump the stock to the moon. 🚀🚀🚀
 
-Explanation by u/Razzamoly:
+**Explanation by u/Razzamoly:**
 
 Basically, it's a battle between WSB and a hedge fund who are short selling ('shorting') Gamestop stock.
  
@@ -22,4 +22,4 @@ WSB gets pissed off and starts buying Gamestop stock while also encouraging each
  
 The short sellers get nervous and start closing their positions by buying stocks to return to the lender - sometimes even buying stock at prices higher than they sold them for, which results in a loss. Since they're also now buying stock, it drives the price up even further, resulting in even bigger potential losses for anyone short seller who holds on - something which is called a 'short squeeze'.
 
-What are the implications of this short squeeze you may be asking? Pretend you are on a rocketship to the moon and every 100 feet of elevation grants you 100 dollars of cash. Only problem is that the rocketship pilot is planning on dipping out at any time and if you don’t get off at the correct time, you’re short out of luck aka dead. A similar pattern was actually seen in Volkswagen which for a few minutes was considered the most valuable stock during 2008 until it essentially crashed.
+**What are the implications of this short squeeze you may be asking?** Pretend you are on a rocketship to the moon and every 100 feet of elevation grants you 100 dollars of cash. Only problem is that the rocketship pilot is planning on dipping out at any time and if you don’t get off at the correct time, you’re short out of luck aka dead. A similar pattern was actually seen in Volkswagen which for a few minutes was considered the most valuable stock during 2008 until it essentially crashed.
