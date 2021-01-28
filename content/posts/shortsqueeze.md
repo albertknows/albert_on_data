@@ -24,7 +24,7 @@ The short sellers get nervous and start closing their positions by buying stocks
 
 **What are the implications of this short squeeze you may be asking?**
 
-Imagine you are on a rocketship to the moon and every 100 feet of elevation that the rocket passes grants you 100 dollars sent straight to your Venmo. Only problem is that the rocketship pilot is planning on dipping out at any given time and if you don’t get off at the before he does, you’re short out of luck cause the rocket will explode. A similar pattern was actually seen in Volkswagen which for a few minutes was considered the most valuable stock during 2008 until it essentially crashed.
+Imagine you are on a rocketship to the moon and every 100 feet of elevation that the rocket passes grants you 100 dollars sent straight to your Venmo. Only problem is that the rocketship pilot is planning on dipping out at any given time and if you don’t get off at the before he does, you’re short out of luck cause the rocket will eventually crash land back to Earth. A similar pattern was actually seen in Volkswagen which for a few minutes was considered the most valuable stock during 2008 until it essentially crashed.
 
 
 ![Volkswagen Short Squeeze](/img/VWShortSqueeze.png)
