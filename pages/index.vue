@@ -79,10 +79,6 @@ export default {
     this.initParticles()
 
     new TypeIt("#type-it-text")
-    <!--.type("do you wish to continue?", {speed: 70, delay: 150})-->
-    <!--.delete(25, {delay: 250})--> 
-    <!--.type("access granted", {speed: 70, delay: 120})--> 
-    <!--.delete(15, {delay: 250})--> 
     .type("welcome to my website", {speed: 40, delay: 90})
     .break({delay: 300})
     .type("can i interest you in...", {speed: 40})
