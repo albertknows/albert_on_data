@@ -4,7 +4,7 @@
     <div class="home-container" >
       <div class="u-full-width">
         <h1 class="site-title">
-            [insert<span class="txt-color"> title]</span>
+            [albert<span class="txt-color">knows]</span>
         </h1>
         <h5 class="subtitle" id="type-it-text">
           <!-- Fancy Typed Text -->
