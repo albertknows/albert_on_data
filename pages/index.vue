@@ -89,7 +89,7 @@ export default {
     .break({delay: 50})
     .type("or maybe", {speed: 60})
     .break({delay: 50})
-    .type("<a href='/about/'>just a quick introduction</a>", {speed: 40})
+    .type("<a href='/about/'>just a quick introduction?</a>", {speed: 40})
     .go();
 
     console.log("hey you, stop it.")
