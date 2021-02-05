@@ -4,7 +4,7 @@ seo_title: New Year, New Goals
 summary: 
 seo_desc: 
 createdAt: 2020-12-26 18:00:00
-date: 2020-12-30T19:17:57.500Z
+date: 2020-12-26T19:17:57.500Z
 ---
 
 **Day to Day Goals:**
