@@ -3,8 +3,8 @@ title: The Idea Behind Letting Go
 seo_title: The Idea Behind Letting Go
 summary: 
 seo_desc: 
-createdAt: 2020-12-15 06:00:00
-date: 2020-12-15T18:17:57.500Z
+createdAt: 2020-10-15 06:00:00
+date: 2020-10-15T18:17:57.500Z
 ---
 
 For the past few years I've been trying to find out the proper method to letting go. Not just people, but detrimental thoughts and memories in hopes of improving my personal life. I would scour every resource online such as Reddit threads, Youtube videos, books and blogs trying to find the answer to this question. Over 90% of the answers mentioned that letting go would require an out of sight and out of mind mentality where you would have to  replace these missing aspects of your life with new and healthy ones. I took this advice as trying to find distractions in order to move on from what was once familiar and essentially block old thoughts/actions with new ones. It sounded easy enough. 
