@@ -4,7 +4,7 @@ seo_title: About
 seo_desc: A Personal Site in a Non-Personal World, Albert Farrales
 ---
 
-Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. I'm currently 20 years old and have a Bachelors in Information Technology Management at UCSC. Currently I'm studying for the APICS CSCP Exam (3 months to go) and am an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
+Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. I'm currently 20 years old and have a Bachelors in Information Technology Management from UCSC. Currently I'm studying for the APICS CSCP Exam (3 months to go) and am an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
 
   Hobbies: Basketball, Poker, Stock Trading, Selling Designer/Streetwear
   
