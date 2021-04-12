@@ -4,9 +4,9 @@ seo_title: About
 seo_desc: A Personal Site in a Non-Personal World, Albert Farrales
 ---
 
-Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. After college I plan to move around and explore the country. Currently I'm an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
+Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. I'm currently 20 years old and have a Bachelors in Information Technology Management at UCSC. Currently I'm studying for the APICS CSCP Exam (3 months to go) and am an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
 
-  Hobbies: Basketball, Stock Trading, Designer and Streetwear Fashion
+  Hobbies: Basketball, Poker, Stock Trading, Selling Designer/Streetwear
   
   Favorite Music: https://open.spotify.com/user/ur6gnl2xf4tmr1dar7bsfj6jp?si=rryio8KFRqCVkWiJLvhWvw 
  
@@ -18,7 +18,7 @@ Welcome to my website. I asipre to have a blog website as great as Creed Bratton
   
   Favorite Show: Regular Show
   
-  Shoutout to my brother Jason, wouldn't be here today without him.
+  Shoutout to my brother Jason aka the real Jimothy.
  
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
 
