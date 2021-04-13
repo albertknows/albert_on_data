@@ -27,6 +27,12 @@
                      </a>
                        </span>
                 &nbsp;&nbsp;
+                    <span class="footer-link">
+                  <a href="https://www.ebay.com/usr/alberfarra" aria-label="ebay" target="_blank">
+                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ebay.svg" alt="vsco"/>
+                     </a>
+                       </span>
+                         &nbsp;&nbsp;
                 <span class="footer-link">
                   <a href="https://www.linkedin.com/in/albertfarrales/" aria-label="LinkedIn" target="_blank">
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Twitter"/>
