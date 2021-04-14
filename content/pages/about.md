@@ -19,6 +19,14 @@ Welcome to my website. I asipre to have a blog website as great as Creed Bratton
   Favorite Show: Regular Show
   
   Shoutout to my brother Jason aka the real Jimothy.
+  
+  Seller Portals:
+  
+  - [eBay](https://www.ebay.com/usr/alberfarra)
+  - [Grailed](https://www.grailed.com/albertfarrales)
+  - [Mercari](https://www.mercari.com/u/494220838/)
+  - [Depop](https://www.depop.com/albertknows/)
+  
  
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
 
