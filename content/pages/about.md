@@ -23,11 +23,10 @@ Welcome to my website. I asipre to have a blog website as great as Creed Bratton
   Seller Portals:
   
   - [eBay](https://www.ebay.com/usr/alberfarra)
+  - [OfferUp](https://offerup.com/p/3671862/)
   - [Grailed](https://www.grailed.com/albertfarrales)
   - [Mercari](https://www.mercari.com/u/494220838/)
-  - [Depop](https://www.depop.com/albertknows/)
   
- 
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
 
 All Web Application Frameworks Used to Create this Site and Software are Listed Below:
