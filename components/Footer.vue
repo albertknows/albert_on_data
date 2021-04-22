@@ -20,12 +20,6 @@
                     <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg" alt="vsco"/>
                      </a>
                        </span>
-                         &nbsp;&nbsp;
-                <span class="footer-link">
-                  <a href="https://www.instagram.com/albertfarrales/" aria-label="Instagram" target="_blank">
-                    <img class="icon-filter" style="color:#fff;" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Twitter"/>
-                     </a>
-                       </span>
                 &nbsp;&nbsp;
                     <span class="footer-link">
                   <a href="https://www.ebay.com/usr/alberfarra" aria-label="ebay" target="_blank">
