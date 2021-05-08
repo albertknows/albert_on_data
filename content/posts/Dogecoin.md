@@ -1,8 +1,6 @@
 ---
-title: Dogecoin is Crazy
-seo_title: Dogecoin is Crazy
-summary: Elon Musk Pump Central
-seo_desc: Elon Musk Pump Central
+title: What is Dogecoin Doing?
+seo_title: What is Dogecoin Doing?
 createdAt: 2021-05-08 06:00:00
 date: 2021-05-08T18:17:57.500Z
 ---
