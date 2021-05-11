@@ -4,11 +4,11 @@ seo_title: About
 seo_desc: A Personal Site in a Non-Personal World, Albert Farrales
 ---
 
-Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. I'm currently 20 years old and have a Bachelors in Information Technology Management from UCSC. Currently I'm studying for the APICS CSCP Exam (3 months to go) and am an Account Manager at OMT Enterprises overseeing the Amazon Vendor Central/Seller Central Sector emphasizing on order fullfillment, advertising analytics, and shipping logistics.
+Welcome to my website. I asipre to have a blog website as great as Creed Brattons eventually. I'm currently 20 years old and have a Bachelors in Information Technology Mgmt. from UCSC. Currently I'm studying for the APICS CSCP Exam (3 months to go helpppppp)
 
-  Hobbies: Basketball, Poker, Stock Trading, Selling Designer/Streetwear
+  Hobbies: Hanging with Family/Friends, Working Out, Poker, Fashion, Stonks
   
-  Favorite Music: https://open.spotify.com/user/ur6gnl2xf4tmr1dar7bsfj6jp?si=rryio8KFRqCVkWiJLvhWvw 
+  What I Listen To: https://open.spotify.com/user/ur6gnl2xf4tmr1dar7bsfj6jp?si=rryio8KFRqCVkWiJLvhWvw 
  
   Favorite Color: Green
   
@@ -18,15 +18,8 @@ Welcome to my website. I asipre to have a blog website as great as Creed Bratton
   
   Favorite Show: Regular Show
   
-  Shoutout to my brother Jason aka the real Jimothy.
-  
-  Seller Portals:
-  
-  - [eBay](https://www.ebay.com/usr/alberfarra)
-  - [OfferUp](https://offerup.com/p/3671862/)
-  - [Grailed](https://www.grailed.com/albertfarrales)
-  - [Mercari](https://www.mercari.com/u/494220838/)
-  
+  Shoutout to Jason.
+ 
 This site is mainly just to document my life and keep as an online journal. About the same price of owning a journal (10 bucks for custom domain name) with endless possibilities.
 
 All Web Application Frameworks Used to Create this Site and Software are Listed Below:
